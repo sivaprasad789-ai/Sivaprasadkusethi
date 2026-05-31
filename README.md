@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ```yaml
 identity:
@@ -37,7 +37,7 @@ identity:
   title    : Principal Security Architect
   subtitle : DevSecOps | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes
   location : Abu Dhabi, UAE
-  email    : sivaprasa789@gmail.com
+  email    : sivaprasad.kram@gmail.com
 
 experience:
   years          : 8+ Years in Cyber Security Engineering
@@ -67,19 +67,28 @@ education:
   thesis  : Scopus-Indexed Security Research Publication
 
 certifications:
-  azure   :
+  azure:
     - AZ-500 — Azure Security Engineer Associate
     - Azure Solutions Architect Expert
-  aws     :
+    - SC-200 — Azure Security Operations Analyst
+    - SC-100 — Cybersecurity Architect Expert
+  aws:
     - AWS Certified Security — Specialty
   kubernetes:
     - CKS — Certified Kubernetes Security Specialist
     - CKA — Certified Kubernetes Administrator
-  audit   :
+  audit:
     - ISACA CISA (Qualified)
+  networking:
+    - Aviatrix Certified Engineer (ACE)
+  siem:
+    - Splunk User Behavior Analytics Certified
+  network:
+    - CNSS Certified Network Security Specialist
   in_progress:
     - CCSP
     - CISSP
+    - Google Professional Cloud Security Engineer
 
 recognition:
   - Honored by Andhra Pradesh Chief Minister
@@ -107,14 +116,39 @@ open_to:
     - AI Security Engineer
     - DevSecOps Architect
     - Enterprise Security Architect
+  locations:
+    - Germany | Ireland | Netherlands
+    - United Kingdom | Australia | Canada
+  visa   : EU Blue Card — Independent Eligibility (5–8 Weeks)
+  notice : 60 Days
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center">
+
+<br/>
+
+<img src="profile.png"
+     alt="Siva Prasad Kusethi — Principal Security Architect"
+     width="200"
+     height="200"
+     style="border-radius: 50%; border: 3px solid #00D9FF;"
+/>
+
+<br/><br/>
+
+**Siva Prasad Kusethi**
+*Principal Security Architect*
+
+---
 
 ### 🏆 Certifications
 
 ![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![SC-100](https://img.shields.io/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![Azure Architect](https://img.shields.io/badge/Azure-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -126,9 +160,17 @@ open_to:
 
 ![CKA](https://img.shields.io/badge/CNCF-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+![Splunk UBA](https://img.shields.io/badge/Splunk-UBA%20Certified-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+![ACE](https://img.shields.io/badge/Aviatrix-ACE%20Certified-00ADEF?style=for-the-badge&logoColor=white)
+
+![CNSS](https://img.shields.io/badge/CNSS-Network%20Security%20Specialist-E34234?style=for-the-badge&logoColor=white)
+
 ![CCSP](https://img.shields.io/badge/CCSP-In%20Progress-6C63FF?style=for-the-badge&logoColor=white)
 
 ![CISSP](https://img.shields.io/badge/CISSP-In%20Progress-6C63FF?style=for-the-badge&logoColor=white)
+
+![Google Cloud Security](https://img.shields.io/badge/Google-Cloud%20Security%20Engineer%20(In%20Progress)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -151,6 +193,8 @@ open_to:
 ![Audits](https://img.shields.io/badge/Compliance%20Audits-5%2B-00D9FF?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-success?style=flat-square)
 ![Gold Medal](https://img.shields.io/badge/M.Tech-Gold%20Medalist-FFD700?style=flat-square)
+![EU Visa](https://img.shields.io/badge/EU%20Blue%20Card-5--8%20Weeks-00D9FF?style=flat-square)
+![Notice](https://img.shields.io/badge/Notice%20Period-60%20Days-success?style=flat-square)
 
 </td>
 </tr>
@@ -171,17 +215,13 @@ open_to:
 🏛️  Zero Trust Architecture
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🧑‍💻 About Me
 
 I am a **Principal Security Architect** with 8+ years of experience designing and implementing enterprise security programs across cloud-native, FinTech, and government environments.
 
-My work spans the full security spectrum — from architecting **Zero Trust frameworks** and **securing 30+ AWS production accounts and Azure, GRP accounts secured**, to building **DevSecOps pipelines from scratch**, leading **AKS and EKS Kubernetes security reviews**, designing **Azure-native security architectures** using Microsoft Sentinel, Defender for Cloud, and Entra ID, and creating **AI/LLM threat models** for emerging agentic systems.
+My work spans the full security spectrum — from architecting **Zero Trust frameworks** and **securing 30+ AWS production accounts and Azure, GCP accounts secured**, to building **DevSecOps pipelines from scratch**, leading **AKS and EKS Kubernetes security reviews**, designing **Azure-native security architectures** using Microsoft Sentinel, Defender for Cloud, and Entra ID, and creating **AI/LLM threat models** for emerging agentic systems.
 
 I hold both **CKA + CKS** — one of very few security professionals certified in both Kubernetes administration and security — with hands-on production hardening experience across **Azure Kubernetes Service (AKS)** and **Amazon Elastic Kubernetes Service (EKS)**. On the Azure side, I work deeply with **AKS security (Defender for Containers, Workload Identity, Azure Policy for AKS)** and across the full **Microsoft security stack (Sentinel, Entra ID, Defender for Cloud, Azure WAF, Key Vault, Conditional Access, PIM)**.
 
