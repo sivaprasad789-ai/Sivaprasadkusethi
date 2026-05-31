@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Siva+Prasad+Kusethi;Principal+Security+Architect+%7C+Cloud+Security;AI+Security+%7C+DevSecOps+%7C+Kubernetes+Security;8%2B+Years+Securing+Enterprise+Cloud+at+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=1100&height=60&lines=Principal+Security+Architect+%7C+DevSecOps+%7C+Incident+Response+%7C+AI+Security+%7C+Cloud+Security+%7C+CNAPP+%7C+SIEM+%7C+IAM+%7C+Kubernetes+Security)](https://git.io/typing-svg)
+
 
 <br/>
 
@@ -28,7 +29,7 @@
 ```yaml
 identity:
   name     : Siva Prasad Kusethi
-  title    : Principal Security Architect | DevSecOps | Incident Response | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes    Security
+  title    : Principal Security Architect | DevSecOps | Incident Response | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes Security
   location : Abu Dhabi, UAE
   email    : sivaprasa789@gmail.com
 
