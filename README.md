@@ -34,36 +34,132 @@
 ```yaml
 identity:
   name     : Siva Prasad Kusethi
-  title    : Principal Security Architect | DevSecOps | Incident Response | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes Security
+  title    : Principal Security Architect
+  subtitle : DevSecOps | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes
   location : Abu Dhabi, UAE
   email    : sivaprasa789@gmail.com
 
 experience:
-  years    : 8+ years in Cyber Security
-  accounts : 30+ AWS accounts, Azure and GRP accounts secured
-  audits   : 500+ security assessments
-  research : Scopus-indexed publication
+  years          : 8+ Years in Cyber Security Engineering
+  cloud_accounts : 30+ AWS | Azure | GCP Accounts Secured
+  workloads      : 300+ Production Workloads Protected
+  assessments    : 500+ Security Assessments Conducted
+  audits         : 5+ Compliance Audits — Zero Non-Conformities
+  findings       : 500+ Findings Remediated Within SLA
+  research       : Scopus-Indexed Security Publication
+
+impact_metrics:
+  secure_score    : 55% → 82%  # Microsoft Defender for Cloud
+  mttd_reduction  : 35%        # Microsoft Sentinel Custom Analytics Rules
+  mttr_reduction  : 40%        # SOAR Playbook Automation
+  vuln_reduction  : 40%        # CI/CD — SAST | DAST | SCA Integration
+  drift_reduction : 60%        # Terraform Policy-as-Code Enforcement
+  iam_cleanup     : 200+       # Over-Permissioned Roles Eliminated
+  compliance      : 90%+       # Score Across Dev | QA | Production
+  k8s_clusters    : 10+        # AKS/EKS Clusters Hardened (CIS 85%+)
+  sentinel_rules  : 25+        # Custom Analytics Rules Deployed
+  soar_playbooks  : 20+        # Automation Playbooks Built
+  alert_volume    : 1,000+/mo  # Alerts Handled | <5% False Positive Rate
 
 education:
-  degree   : M.Sc. Cyber Security & Digital Forensics
-  honor    : Gold Medalist
+  degree  : M.Tech — Cyber Security & Digital Forensics
+  honor   : Gold Medalist — KL University
+  thesis  : Scopus-Indexed Security Research Publication
+
+certifications:
+  azure   :
+    - AZ-500 — Azure Security Engineer Associate
+    - Azure Solutions Architect Expert
+  aws     :
+    - AWS Certified Security — Specialty
+  kubernetes:
+    - CKS — Certified Kubernetes Security Specialist
+    - CKA — Certified Kubernetes Administrator
+  audit   :
+    - ISACA CISA (Qualified)
+  in_progress:
+    - CCSP
+    - CISSP
 
 recognition:
   - Honored by Andhra Pradesh Chief Minister
     for Security Audit Excellence
-  - Scopus-indexed Security Researcher
+  - Scopus-Indexed Security Researcher
   - Gold Medalist — Cyber Security & Digital Forensics
 
+specializations:
+  cloud_security  : Azure WAF | CSPM | Defender for Cloud | Sentinel
+  devsecops       : CI/CD Security | SAST | DAST | SCA | IaC Security
+  kubernetes      : AKS | EKS | Falco | Kube-bench | Trivy | Aqua Security
+  identity        : Entra ID | PIM | RBAC | Conditional Access | Zero Trust
+  ai_security     : LLM Security | Prompt Injection | Agentic AI | RAG Pipelines
+  compliance      : ISO 27001 | NIST CSF | PCI DSS | HIPAA | CIS Benchmarks
+  threat_modeling : STRIDE | OWASP Threat Dragon | Architecture Reviews
+  siem_soar       : Microsoft Sentinel | Splunk | KQL | Playbooks | Atos SIEM
+  api_security    : Salt Security | Upwind | WAF | Rate Limiting | OAuth2 | PKCE
+  mobile_security : MASVS | MobSF | Frida | iOS | Android Security
+
 open_to:
-  - Principal Security Engineer
-  - Cloud Security Architect
-  - Security Architecture Lead
-  - AI Security Engineer
-  - DevSecOps Architect
+  roles:
+    - Principal Security Engineer
+    - Cloud Security Architect
+    - Security Architecture Lead
+    - AI Security Engineer
+    - DevSecOps Architect
+    - Enterprise Security Architect
+  locations:
+    - Germany | Ireland | Netherlands
+    - United Kingdom | Australia | Canada
+  visa   : EU Blue Card — Independent Eligibility (5–8 Weeks)
+  notice : 60 Days
 ```
 
 </td>
 <td width="40%" align="center">
+
+### 🏆 Certifications
+
+![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Azure Architect](https://img.shields.io/badge/Azure-Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![AWS Security](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![CISA](https://img.shields.io/badge/ISACA-CISA%20Qualified-003087?style=for-the-badge&logoColor=white)
+
+![CKS](https://img.shields.io/badge/CNCF-CKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![CKA](https://img.shields.io/badge/CNCF-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![CCSP](https://img.shields.io/badge/CCSP-In%20Progress-6C63FF?style=for-the-badge&logoColor=white)
+
+![CISSP](https://img.shields.io/badge/CISSP-In%20Progress-6C63FF?style=for-the-badge&logoColor=white)
+
+---
+
+### 🌍 Open to Relocation
+
+![Germany](https://img.shields.io/badge/🇩🇪-Germany-black?style=flat-square)
+![Ireland](https://img.shields.io/badge/🇮🇪-Ireland-169B62?style=flat-square)
+![Netherlands](https://img.shields.io/badge/🇳🇱-Netherlands-AE1C28?style=flat-square)
+![UK](https://img.shields.io/badge/🇬🇧-United%20Kingdom-012169?style=flat-square)
+![Australia](https://img.shields.io/badge/🇦🇺-Australia-00843D?style=flat-square)
+![Canada](https://img.shields.io/badge/🇨🇦-Canada-FF0000?style=flat-square)
+
+---
+
+### 📊 Key Stats
+
+![Workloads](https://img.shields.io/badge/Workloads%20Secured-300%2B-00D9FF?style=flat-square)
+![Accounts](https://img.shields.io/badge/Cloud%20Accounts-30%2B-00D9FF?style=flat-square)
+![Findings](https://img.shields.io/badge/Findings%20Remediated-500%2B-00D9FF?style=flat-square)
+![Audits](https://img.shields.io/badge/Compliance%20Audits-5%2B-00D9FF?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-success?style=flat-square)
+![Gold Medal](https://img.shields.io/badge/M.Tech-Gold%20Medalist-FFD700?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 **Core Domains**
 
