@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-prasad-kusethi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivaprasad.kram@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivaprasad789-ai)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sivaprasadkusethi)
 
 <br/>
 
@@ -263,36 +262,78 @@ I am one of a small number of practitioners who holds both **CKA + CKS** (Kubern
 
 <div align="center">
 
-**Cloud & Infrastructure**
+**☁️ Cloud Platforms**
 
-![AWS Security Hub](https://img.shields.io/badge/AWS_Security_Hub-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**🛡️ CNAPP / CSPM / CWPP**
+
+![Upwind](https://img.shields.io/badge/Upwind-00D9FF?style=flat-square&logoColor=white)
+![Aqua Security](https://img.shields.io/badge/Aqua_Security-00ADEF?style=flat-square&logoColor=white)
 ![Prisma Cloud](https://img.shields.io/badge/Prisma_Cloud-00BFFF?style=flat-square&logoColor=white)
-![Aqua](https://img.shields.io/badge/Aqua_Security-00ADEF?style=flat-square&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-**Application & API Security**
+**🔄 DevSecOps & CI/CD**
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![MobSF](https://img.shields.io/badge/MobSF-6C757D?style=flat-square&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34234?style=flat-square&logoColor=white)
-
-**Container & Kubernetes**
-
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logoColor=white)
-![kube-bench](https://img.shields.io/badge/kube--bench-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![kube-hunter](https://img.shields.io/badge/kube--hunter-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-**SIEM & Detection**
+**🌐 Network & Edge Security**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure WAF](https://img.shields.io/badge/Azure_WAF-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![NGFW](https://img.shields.io/badge/NGFW-E34234?style=flat-square&logoColor=white)
+
+**🔍 Assessment & Pentesting**
+
 ![Nessus](https://img.shields.io/badge/Nessus-00A1F1?style=flat-square&logoColor=white)
+![Nexpose](https://img.shields.io/badge/Nexpose-E34234?style=flat-square&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=flat-square&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-E95420?style=flat-square&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+**📱 Mobile Security**
+
+![MobSF](https://img.shields.io/badge/MobSF-6C757D?style=flat-square&logoColor=white)
+![Drozer](https://img.shields.io/badge/Drozer-3DDC84?style=flat-square&logoColor=white)
+![QARK](https://img.shields.io/badge/QARK-6C757D?style=flat-square&logoColor=white)
+
+**📊 SIEM & Detection**
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=flat-square&logo=microsoftazure&logoColor=white)
+![Trend Micro](https://img.shields.io/badge/Trend_Micro-D71921?style=flat-square&logoColor=white)
+
+**☁️ Cloud Security Services**
+
+![GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Defender for Cloud](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP SCC](https://img.shields.io/badge/GCP_Security_Command_Center-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**🔑 IAM**
+
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**⚙️ Process & OS**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
@@ -467,7 +508,6 @@ CISSP Certification    ██████░░░░░░░░░  40%  Plann
 | 💼 LinkedIn | [linkedin.com/in/siva-prasad-kusethi](https://www.linkedin.com/in/siva-prasad-kusethi/) |
 | 📧 Email | [sivaprasad.kram@gmail.com](mailto:sivaprasad.kram@gmail.com) |
 | 🐙 GitHub | [github.com/sivaprasad789-ai](https://github.com/sivaprasad789-ai) |
-| ✍️ Medium | [medium.com/@sivaprasadkusethi](https://medium.com/@sivaprasadkusethi) |
 
 </div>
 
