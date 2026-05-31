@@ -35,7 +35,7 @@
 identity:
   name     : Siva Prasad Kusethi
   title    : Principal Security Architect
-  subtitle : DevSecOps | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes
+  subtitle : Secure Architecture | DevSecOps | Incident Response | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes Security
   location : Abu Dhabi, UAE
   email    : sivaprasad.kram@gmail.com
 
@@ -119,8 +119,6 @@ open_to:
   locations:
     - Germany | Ireland | Netherlands
     - United Kingdom | Australia | Canada
-  visa   : EU Blue Card — Independent Eligibility (5–8 Weeks)
-  notice : 60 Days
 ```
 
 </td>
@@ -129,7 +127,7 @@ open_to:
 <br/>
 
 <img src="profile.png"
-     alt="Siva Prasad Kusethi — Principal Security Architect"
+     alt="Siva Prasad Kusethi — Secure Architecture | DevSecOps | Incident Response | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes Security"
      width="200"
      height="200"
      style="border-radius: 50%; border: 3px solid #00D9FF;"
