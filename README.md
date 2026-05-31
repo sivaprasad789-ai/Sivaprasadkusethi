@@ -84,9 +84,9 @@ open_to:
 
 I am a **Principal Security Architect** with 8+ years of experience designing and implementing enterprise security programs across cloud-native, FinTech, and government environments.
 
-My work spans the full security spectrum — from architecting **Zero Trust frameworks** and **securing 30+ AWS production accounts**, to building **DevSecOps pipelines from scratch**, leading **Kubernetes security reviews**, and designing **AI/LLM threat models** for emerging agentic systems.
+My work spans the full security spectrum — from architecting **Zero Trust frameworks** and **securing 30+ AWS production accounts**, to building **DevSecOps pipelines from scratch**, leading **AKS and EKS Kubernetes security reviews**, designing **Azure-native security architectures** using Microsoft Sentinel, Defender for Cloud, and Entra ID, and creating **AI/LLM threat models** for emerging agentic systems.
 
-I am one of a small number of practitioners who holds both **CKA + CKS** (Kubernetes administration and security) alongside cloud security certifications, giving me rare depth across infrastructure, workload, and application security layers simultaneously.
+I hold both **CKA + CKS** — one of very few security professionals certified in both Kubernetes administration and security — with hands-on production hardening experience across **Azure Kubernetes Service (AKS)** and **Amazon Elastic Kubernetes Service (EKS)**. On the Azure side, I work deeply with **AKS security (Defender for Containers, Workload Identity, Azure Policy for AKS)** and across the full **Microsoft security stack (Sentinel, Entra ID, Defender for Cloud, Azure WAF, Key Vault, Conditional Access, PIM)**.
 
 **What makes my approach different:**
 - I treat security as an **engineering discipline**, not a checkbox
@@ -124,16 +124,20 @@ I am one of a small number of practitioners who holds both **CKA + CKS** (Kubern
 <summary><b>☁️ Cloud Security</b></summary>
 <br>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-Azure_Kubernetes_Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-Amazon_Elastic_Kubernetes-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 | Platform | Services & Depth |
 |----------|-----------------|
-| **AWS** | Security Hub, GuardDuty, Inspector, Config, WAF v2, Shield, CloudTrail, IAM, KMS, Macie, VPC Security |
-| **Azure** | Defender for Cloud, Sentinel, Entra ID, App Gateway WAF v2, Key Vault, Conditional Access, PIM, DDoS |
+| **AWS** | Security Hub, GuardDuty, Inspector, Config, **WAF v2**, Shield, CloudTrail, IAM, KMS, Macie, VPC Security, **EKS Security** |
+| **Azure** ⭐ | **Defender for Cloud**, **Sentinel**, **Entra ID / Azure AD**, **App Gateway WAF v2**, Key Vault, Conditional Access, PIM, DDoS Protection, **AKS Security**, Azure Monitor, GCP Logging integration |
 | **GCP** | Security Command Center, Cloud Armor, IAM, VPC Service Controls, Binary Authorization |
-| **CNAPP / CSPM** | Prisma Cloud, Wiz, Aqua Security, Microsoft Defender for Cloud |
+| **AKS** ⭐ | Azure Kubernetes Service security hardening — RBAC, Azure Policy for AKS, Defender for Containers, network policies, workload identity, Key Vault CSI Driver |
+| **EKS** ⭐ | Amazon EKS security — IAM Roles for Service Accounts (IRSA), OIDC, GuardDuty EKS Protection, Kyverno/OPA policies, VPC CNI security |
+| **CNAPP / CSPM** | Upwind, Prisma Cloud, Aqua Security, Microsoft Defender for Cloud |
 | **Architecture** | Zero Trust, CNAPP strategy, CSPM governance, CWPP implementation, multi-account security |
 
 </details>
@@ -179,9 +183,19 @@ I am one of a small number of practitioners who holds both **CKA + CKS** (Kubern
 <summary><b>☸️ Kubernetes & Container Security</b></summary>
 <br>
 
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logoColor=white)
+
+> **Certified Kubernetes Administrator (CKA) + Certified Kubernetes Security Specialist (CKS)** — dual certification covering both cluster operations and security hardening on AKS and EKS.
+
+| Platform | Security Depth |
+|----------|---------------|
+| **AKS** ⭐ | Microsoft Defender for Containers, Azure Policy for AKS, Workload Identity, Key Vault CSI Driver, Private Cluster, Azure CNI, network policies, RBAC with Entra ID integration |
+| **EKS** ⭐ | GuardDuty EKS Protection, IRSA (IAM Roles for Service Accounts), OIDC provider, VPC CNI security, EKS Pod Identity, Control Plane logging, Kyverno admission control |
 
 - **Cluster hardening** — CIS Benchmark, kube-bench, RBAC least privilege, admission controllers
 - **Pod security** — PodSecurity Admission, SecurityContext, OPA/Kyverno policies
@@ -264,9 +278,11 @@ I am one of a small number of practitioners who holds both **CKA + CKS** (Kubern
 
 **☁️ Cloud Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-Azure_Kubernetes_Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-Amazon_Kubernetes-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **🛡️ CNAPP / CSPM / CWPP**
 
@@ -309,22 +325,25 @@ I am one of a small number of practitioners who holds both **CKA + CKS** (Kubern
 
 **📊 SIEM & Detection**
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Trend Micro](https://img.shields.io/badge/Trend_Micro-D71921?style=flat-square&logoColor=white)
+![GCP Logging](https://img.shields.io/badge/GCP_Logging-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **☁️ Cloud Security Services**
 
 ![GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Defender for Cloud](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Defender for Cloud](https://img.shields.io/badge/Azure_Defender_for_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP SCC](https://img.shields.io/badge/GCP_Security_Command_Center-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Defender for Containers](https://img.shields.io/badge/Defender_for_Containers_(AKS)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GuardDuty EKS](https://img.shields.io/badge/GuardDuty_EKS_Protection-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **🔑 IAM**
 
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID_(Azure_AD)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **⚙️ Process & OS**
 
