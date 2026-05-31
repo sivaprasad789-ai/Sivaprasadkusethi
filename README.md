@@ -237,18 +237,31 @@ I hold both **CKA + CKS** — one of very few security professionals certified i
 
 <div align="center">
 
-| | Certification | Domain | Issuer |
-|:---:|---|---|---|
-| ☁️ | **AWS Certified Security – Specialty** | Cloud Security | Amazon Web Services |
-| 🔷 | **Microsoft Certified: Azure Security Engineer (AZ-500)** | Cloud Security | Microsoft |
-| 🔷 | **Microsoft Certified: Azure Security Operations Analyst (SC-200)** | SecOps | Microsoft |
-| 🔷 | **Microsoft Certified: Cybersecurity Architect Expert (SC-100)** |  Cloud Security | Microsoft |
-| ☸️ | **Certified Kubernetes Administrator (CKA)** | Infrastructure | CNCF |
-| ☸️ | **Certified Kubernetes Security Specialist (CKS)** | Container Security | CNCF |
-| 📋 | **Certified Information Systems Auditor (CISA)** | Audit & GRC | ISACA |
-| 🌐 | **Aviatrix Certified Engineer (ACE)** | Cloud Networking | Aviatrix |
-| 📊 | **Splunk User Behavior Analytics Certified** | SIEM / UBA | Splunk |
-| 🔒 | **CNSS Certified Network Security Specialist** | Network Security | CNSS |
+| | Certification | Domain | Issuer | Verify |
+|:---:|---|---|---|:---:|
+| 📋 | **Certified Information Systems Auditor (CISA)** | Audit & GRC | ISACA | [🔗 View](https://drive.google.com/file/d/167fsB1W9rj8oBw2T3zlEcsViK0NZv9IQ/view?usp=drive_link) |
+| ☁️ | **AWS Certified Security – Specialty** | Cloud Security | Amazon Web Services | [🔗 View](https://www.credly.com/badges/64081182-67a6-4fba-9d30-bdf203316fb8?source=linked_in_profile) |
+| 🔷 | **Microsoft Certified: Azure Security Engineer (AZ-500)** | Cloud Security | Microsoft | [🔗 View](https://www.credly.com/badges/7e789711-3486-4948-9523-7dffc95e8828/linked_in_profile) |
+| 🔷 | **Microsoft Certified: Azure Security Operations Analyst (SC-200)** | SecOps | Microsoft | [🔗 View](https://learn.microsoft.com/api/credentials/share/en-us/SivaPrasad-1059/B730FF322EC9DE54?sharingId=53CE37C9F36DE70E) |
+| 🔷 | **Microsoft Certified: Cybersecurity Architect Expert (SC-100)** | Cloud Security | Microsoft | — |
+| ☸️ | **Certified Kubernetes Security Specialist (CKS)** | Container Security | CNCF | [🔗 View](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/48ada983-816a-4490-8284-ad796462c4b0-sivaprasad-kusethi-9f31fc50-5557-491b-8f23-cfdaf3efccb0-certificate.pdf) |
+| ☸️ | **Certified Kubernetes Administrator (CKA)** | Infrastructure | CNCF | [🔗 View](https://www.credly.com/badges/12dfb5ff-4032-4627-9749-73f9a8be2819/linked_in_profile) |
+| 🌐 | **Aviatrix Multicloud Network Associate (ACE)** | Cloud Networking | Aviatrix | [🔗 View](https://www.credly.com/badges/e9abb386-3450-42f3-b523-78466c21b4e3/linked_in_profile) |
+| 📊 | **Splunk User Behavior Analytics Certified** | SIEM / UBA | Splunk | — |
+| 🔒 | **CNSS Certified Network Security Specialist** | Network Security | CNSS | — |
+
+</div>
+
+<div align="center">
+
+[![CISA](https://img.shields.io/badge/ISACA-CISA%20Qualified-003087?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/167fsB1W9rj8oBw2T3zlEcsViK0NZv9IQ/view?usp=drive_link)
+[![AWS Security](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/64081182-67a6-4fba-9d30-bdf203316fb8?source=linked_in_profile)
+[![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/7e789711-3486-4948-9523-7dffc95e8828/linked_in_profile)
+[![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/SivaPrasad-1059/B730FF322EC9DE54?sharingId=53CE37C9F36DE70E)
+[![SC-100](https://img.shields.io/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/7e789711-3486-4948-9523-7dffc95e8828/linked_in_profile)
+[![CKS](https://img.shields.io/badge/CNCF-CKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/48ada983-816a-4490-8284-ad796462c4b0-sivaprasad-kusethi-9f31fc50-5557-491b-8f23-cfdaf3efccb0-certificate.pdf)
+[![CKA](https://img.shields.io/badge/CNCF-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/12dfb5ff-4032-4627-9749-73f9a8be2819/linked_in_profile)
+[![ACE](https://img.shields.io/badge/Aviatrix-Multicloud%20Network%20Associate-00ADEF?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/e9abb386-3450-42f3-b523-78466c21b4e3/linked_in_profile)
 
 </div>
 
