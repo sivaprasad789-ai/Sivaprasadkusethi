@@ -1,15 +1,17 @@
+<!-- SEO: Cloud Security Engineer Security Architect Application Security DevSecOps Kubernetes Security AI Security AWS Azure GCP Threat Modeling Zero Trust CNAPP CSPM -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=850&height=110&lines=Hi+%F0%9F%91%8B+I'm+Siva+Prasad+Kusethi;Cloud+Security+Architect+%7C+DevSecOps+Engineer;AI+%2F+ML+Security+%7C+8%2B+Years+in+InfoSec)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Siva+Prasad+Kusethi;Principal+Security+Architect+%7C+Cloud+Security+Lead;AI+Security+%7C+DevSecOps+%7C+Kubernetes+Security;8%2B+Years+Securing+Enterprise+Cloud+at+Scale)](https://git.io/typing-svg)
 
-<br>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivaprasadkusethi)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sivaprasadkusethi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivaprasad789@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-prasad-kusethi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivaprasad.kram@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivaprasad789-ai)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sivaprasadkusethi)
 
-<br>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sivaprasad789-ai&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/sivaprasad789-ai?style=for-the-badge&logo=github&color=181717&label=FOLLOWERS)](https://github.com/sivaprasad789-ai)
@@ -18,31 +20,80 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ Executive Summary
+
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
-name         : Siva Prasad Kusethi
-title        : Cloud Security Architect | DevSecOps Engineer | AI Security Engineer
-experience   : 8+ years in Information Security
-location     : Abu Dhabi, UAE
-education    : M.Sc. Cyber Security & Digital Forensics  ·  Gold Medalist
+identity:
+  name     : Siva Prasad Kusethi
+  title    : Principal Security Architect
+  location : Abu Dhabi, UAE
+  email    : sivaprasad.kram@gmail.com
 
-specializations:
-  - Cloud Security          → AWS · Azure · GCP
-  - DevSecOps               → Shift-left, CI/CD security gates, policy-as-code
-  - Application Security    → WAF, API security, SAST/DAST, threat modeling
-  - Kubernetes Security     → AKS/EKS hardening, OPA, Falco, mTLS
-  - AI / ML Security        → LLM threat modeling, OWASP LLM Top 10, agentic AI
-  - CNAPP / CSPM / CWPP     → Wiz, Prisma Cloud, Upwind, Defender for Cloud
-  - SIEM & SecOps           → Microsoft Sentinel, Splunk, KQL, detection engineering
+experience:
+  years    : 8+ years in Cyber Security
+  accounts : 30+ AWS accounts secured
+  audits   : 500+ security assessments
+  research : Scopus-indexed publication
 
-currently:
-  - Migrating AWS WAF → Azure Application Gateway WAF v2 for a FinTech platform
-  - Designing Zero Trust architecture for enterprise cloud environments
-  - Researching agentic AI security patterns and LLM threat models
+education:
+  degree   : M.Sc. Cyber Security & Digital Forensics
+  honor    : Gold Medalist
 
-open_to      : Cloud Security Architect · AppSec Architect · DevSecOps Architect · AI Security Engineer
+recognition:
+  - Honored by Andhra Pradesh Chief Minister
+    for Security Audit Excellence
+  - Scopus-indexed Security Researcher
+  - Gold Medalist — Cyber Security & Digital Forensics
+
+open_to:
+  - Principal Security Engineer
+  - Cloud Security Architect
+  - Security Architecture Lead
+  - AI Security Engineer
+  - DevSecOps Architect
 ```
+
+</td>
+<td width="40%" align="center">
+
+**Core Domains**
+
+```
+☁️  Cloud Security
+🔐  Security Architecture
+🤖  AI / LLM Security
+☸️  Kubernetes Security
+🔄  DevSecOps
+🛡️  Application Security
+🎯  Threat Modeling
+📊  SIEM Engineering
+🔍  Vulnerability Management
+🏛️  Zero Trust Architecture
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧑‍💻 About Me
+
+I am a **Principal Security Architect** with 8+ years of experience designing and implementing enterprise security programs across cloud-native, FinTech, and government environments.
+
+My work spans the full security spectrum — from architecting **Zero Trust frameworks** and **securing 30+ AWS production accounts**, to building **DevSecOps pipelines from scratch**, leading **Kubernetes security reviews**, and designing **AI/LLM threat models** for emerging agentic systems.
+
+I am one of a small number of practitioners who holds both **CKA + CKS** (Kubernetes administration and security) alongside cloud security certifications, giving me rare depth across infrastructure, workload, and application security layers simultaneously.
+
+**What makes my approach different:**
+- I treat security as an **engineering discipline**, not a checkbox
+- I design security that **developers adopt willingly** — not security that slows teams down
+- Every framework I build is **measurable, automatable, and repeatable**
+- I publish research and contribute to the security community
 
 ---
 
@@ -50,20 +101,25 @@ open_to      : Cloud Security Architect · AppSec Architect · DevSecOps Archite
 
 <div align="center">
 
-| Badge | Certification | Issuer |
-|:-----:|--------------|--------|
-| ☁️ | **AWS Certified Security – Specialty** | Amazon Web Services |
-| 🔷 | **Microsoft Certified: Azure Security Engineer Associate (AZ-500)** | Microsoft |
-| 📋 | **Certified Information Systems Auditor (CISA)** | ISACA |
-| 🎓 | **M.Sc. Cyber Security & Digital Forensics — Gold Medalist** | University |
+| | Certification | Domain | Issuer |
+|:---:|---|---|---|
+| ☁️ | **AWS Certified Security – Specialty** | Cloud Security | Amazon Web Services |
+| 🔷 | **Microsoft Certified: Azure Security Engineer (AZ-500)** | Cloud Security | Microsoft |
+| 🔷 | **Microsoft Certified: Azure Security Operations Analyst (SC-200)** | SecOps | Microsoft |
+| ☸️ | **Certified Kubernetes Administrator (CKA)** | Infrastructure | CNCF |
+| ☸️ | **Certified Kubernetes Security Specialist (CKS)** | Container Security | CNCF |
+| 📋 | **Certified Information Systems Auditor (CISA)** | Audit & GRC | ISACA |
+| 🌐 | **Aviatrix Certified Engineer (ACE)** | Cloud Networking | Aviatrix |
+| 📊 | **Splunk User Behavior Analytics Certified** | SIEM / UBA | Splunk |
+| 🔒 | **CNSS Certified Network Security Specialist** | Network Security | CNSS |
 
 </div>
 
-> 🎯 **Pursuing:** CCSP &nbsp;·&nbsp; CISSP &nbsp;·&nbsp; CKS (Certified Kubernetes Security Specialist)
+> 🎯 **Currently Pursuing:** CCSP &nbsp;·&nbsp; CISSP &nbsp;·&nbsp; Google Professional Cloud Security Engineer
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Expertise Matrix
 
 <details>
 <summary><b>☁️ Cloud Security</b></summary>
@@ -73,33 +129,32 @@ open_to      : Cloud Security Architect · AppSec Architect · DevSecOps Archite
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-| Platform | Services & Tools |
+| Platform | Services & Depth |
 |----------|-----------------|
-| **AWS** | WAF v2, Security Hub, GuardDuty, Inspector, IAM, KMS, Macie, CloudTrail, VPC Security Groups |
-| **Azure** | Defender for Cloud, Sentinel, Entra ID, App Gateway WAF v2, Key Vault, Conditional Access, PIM |
-| **GCP** | Security Command Center, Cloud Armor, IAM, VPC Service Controls |
-| **CNAPP / CSPM** | Wiz, Prisma Cloud, Upwind, Microsoft Defender for Cloud |
-| **Identity** | Zero Trust, RBAC, Workload Identity, Service Principals, mTLS |
+| **AWS** | Security Hub, GuardDuty, Inspector, Config, WAF v2, Shield, CloudTrail, IAM, KMS, Macie, VPC Security |
+| **Azure** | Defender for Cloud, Sentinel, Entra ID, App Gateway WAF v2, Key Vault, Conditional Access, PIM, DDoS |
+| **GCP** | Security Command Center, Cloud Armor, IAM, VPC Service Controls, Binary Authorization |
+| **CNAPP / CSPM** | Prisma Cloud, Wiz, Aqua Security, Microsoft Defender for Cloud |
+| **Architecture** | Zero Trust, CNAPP strategy, CSPM governance, CWPP implementation, multi-account security |
 
 </details>
 
 <details>
-<summary><b>🔄 DevSecOps & CI/CD Security</b></summary>
+<summary><b>🔄 DevSecOps & Secure SDLC</b></summary>
 <br>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-| Pipeline Stage | Security Controls |
-|---------------|-------------------|
-| **Code** | SAST (Checkmarx, SonarQube), Secret scanning (Gitleaks, Trufflehog) |
-| **Build** | SCA (Snyk, OWASP Dependency-Check), Container scanning (Trivy, Grype) |
-| **Deploy** | IaC security (Checkov, tfsec), Policy-as-code (OPA, Kyverno) |
-| **Runtime** | CWPP, eBPF-based detection, Runtime threat protection |
-| **Monitor** | SIEM integration, alert correlation, incident response automation |
+| Stage | Controls |
+|-------|----------|
+| **Code** | SAST (SonarQube, Checkmarx), secret scanning (Gitleaks, Trufflehog) |
+| **Build** | SCA (Snyk, OWASP DC), container scanning (Trivy, Grype, Aqua) |
+| **Deploy** | IaC security (Checkov, tfsec), policy-as-code (OPA, Kyverno) |
+| **Runtime** | CWPP, eBPF detection, RASP integration |
+| **Monitor** | SIEM pipeline integration, automated alerting, incident playbooks |
 
 </details>
 
@@ -112,11 +167,12 @@ open_to      : Cloud Security Architect · AppSec Architect · DevSecOps Archite
 
 | Domain | Capability |
 |--------|-----------|
-| **WAF** | AWS WAF v2 custom rule design, Azure App Gateway WAF v2, rule migration, validation |
-| **API Security** | Salt Security, Upwind API, OWASP API Top 10, OAuth2/OIDC, JWT hardening |
-| **Threat Modeling** | STRIDE, MITRE ATT&CK, OWASP Threat Dragon, attack trees, ADR documentation |
-| **Penetration Testing** | Web app, API, and cloud penetration testing |
-| **Secure Code Review** | SAST-guided review, vulnerability triage, secure coding standards |
+| **WAF** | AWS WAF v2 rule design & migration, Azure App Gateway WAF v2, custom rule sets |
+| **API Security** | OWASP API Top 10, OAuth2/OIDC hardening, JWT security, Salt Security |
+| **Mobile Security** | MobSF, iOS/Android security reviews, MASVS framework |
+| **Threat Modeling** | STRIDE, MITRE ATT&CK, OWASP Threat Dragon, attack trees, ADR design |
+| **Pentesting** | Burp Suite, OWASP ZAP, Metasploit, web/API/cloud penetration testing |
+| **Secure SDLC** | Security requirements, design review, SAST-guided code review, security testing |
 
 </details>
 
@@ -127,155 +183,291 @@ open_to      : Cloud Security Architect · AppSec Architect · DevSecOps Archite
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logo=falco&logoColor=white)
 
-- **Cluster hardening** — CIS Benchmark, kube-bench, RBAC least privilege
+- **Cluster hardening** — CIS Benchmark, kube-bench, RBAC least privilege, admission controllers
 - **Pod security** — PodSecurity Admission, SecurityContext, OPA/Kyverno policies
-- **Network policies** — Calico, Cilium, east-west traffic micro-segmentation
-- **Image security** — Distroless images, image signing (Cosign/Notary), vulnerability scanning
-- **Runtime protection** — Falco custom rules, Sysdig, eBPF-based threat detection
+- **Network policies** — Calico, Cilium, east-west micro-segmentation
+- **Image security** — Distroless images, Cosign signing, Notary, vulnerability scanning
+- **Runtime detection** — Falco custom rules, Sysdig, kube-hunter, eBPF-based threat detection
 - **Service mesh** — Istio mTLS, zero-trust service-to-service authentication
-- **Secrets management** — External Secrets Operator, HashiCorp Vault CSI, Azure Key Vault CSI Driver
+- **Secrets** — External Secrets Operator, HashiCorp Vault CSI, Azure Key Vault CSI Driver
 
 </details>
 
 <details>
-<summary><b>🤖 AI / ML Security</b></summary>
+<summary><b>🤖 AI / LLM Security</b></summary>
 <br>
 
 | Threat Category | Controls & Mitigations |
 |----------------|------------------------|
-| **Prompt injection** | Input validation, output filtering, guardrails |
-| **Data poisoning** | Dataset integrity, provenance tracking, anomaly detection in training |
-| **Model theft** | API rate limiting, watermarking, access control |
+| **Prompt injection** | Input validation, output filtering, system prompt hardening |
+| **Data poisoning** | Dataset integrity, provenance tracking, anomaly detection |
+| **Model theft** | API rate limiting, watermarking, access control tiers |
 | **LLM supply chain** | Model card review, SBOM for AI, dependency audit |
-| **Agentic AI risks** | Tool access scoping, least-privilege execution, human-in-the-loop |
+| **Agentic AI risks** | Tool access scoping, least-privilege execution, HITL controls |
 | **RAG security** | Vector DB access control, retrieval filtering, source validation |
+| **MCP security** | Tool call auditing, server trust boundaries, capability scoping |
 | **Compliance** | OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF, EU AI Act |
 
 </details>
 
 <details>
-<summary><b>🔍 SIEM & Security Operations</b></summary>
+<summary><b>📊 SIEM & Security Operations</b></summary>
 <br>
 
-![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-- **SIEM** — Microsoft Sentinel, Splunk, Atos SIEM
-- **Detection engineering** — KQL queries, Sigma rules, custom detection rules
-- **Threat hunting** — Hypothesis-driven hunting, IOC/TTP-based investigation
-- **Incident response** — Playbook design, SOAR integration, triage and containment
-- **Log sources** — Cloud audit logs, WAF logs, K8s audit logs, network flows, app logs
+- **Platforms** — Splunk (UBA certified), Microsoft Sentinel, ELK Stack
+- **Detection engineering** — KQL, SPL, Sigma rules, YARA rules, custom detection logic
+- **Threat hunting** — Hypothesis-driven hunting, TTP-based investigation, IOC enrichment
+- **Incident response** — Playbook design, SOAR integration, triage, containment, eradication
+- **UBA** — User behavior analytics, anomaly detection, insider threat detection
 
 </details>
 
 <details>
-<summary><b>📋 Governance, Risk & Compliance</b></summary>
+<summary><b>🔍 Vulnerability Management</b></summary>
 <br>
 
-| Framework | Application |
-|-----------|------------|
-| **ISO 27001** | Security management system design and audit |
-| **NIST CSF** | Risk assessment, controls mapping, maturity scoring |
-| **PCI DSS** | FinTech payment platform compliance |
-| **CIS Benchmarks** | Cloud and OS hardening baselines |
-| **MITRE ATT&CK** | Threat modeling, detection coverage mapping |
-| **SOC 2** | Controls design and evidence collection |
+![Nessus](https://img.shields.io/badge/Nessus-00A1F1?style=flat-square&logoColor=white)
+
+| Phase | Tools & Process |
+|-------|----------------|
+| **Discovery** | Nessus, AWS Inspector, Qualys, cloud-native scanners |
+| **Assessment** | CVSS scoring, exploitability analysis, business impact rating |
+| **Prioritization** | Risk-based triage, EPSS scoring, asset criticality weighting |
+| **Remediation** | Automated patching pipelines, IaC remediation, tracking in Jira |
+| **Reporting** | Executive dashboards, technical reports, KPI tracking |
+
+</details>
+
+<details>
+<summary><b>📋 Security Architecture & Governance</b></summary>
+<br>
+
+| Domain | Capability |
+|--------|-----------|
+| **Frameworks** | ISO 27001, NIST CSF, CIS Benchmarks, PCI DSS, SOC 2 |
+| **Architecture** | Zero Trust design, security reference architectures, ADR documentation |
+| **IAM** | RBAC/ABAC design, PIM, service accounts, workload identity federation |
+| **Risk Management** | Risk assessment, threat register, TPRM, vendor security review |
+| **GRC** | Controls design, audit evidence, compliance automation |
 
 </details>
 
 ---
 
-## 📂 Projects Portfolio
+## 🔬 Security Arsenal
+
+<div align="center">
+
+**Cloud & Infrastructure**
+
+![AWS Security Hub](https://img.shields.io/badge/AWS_Security_Hub-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Prisma Cloud](https://img.shields.io/badge/Prisma_Cloud-00BFFF?style=flat-square&logoColor=white)
+![Aqua](https://img.shields.io/badge/Aqua_Security-00ADEF?style=flat-square&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Application & API Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-6C757D?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34234?style=flat-square&logoColor=white)
+
+**Container & Kubernetes**
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logoColor=white)
+![kube-bench](https://img.shields.io/badge/kube--bench-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![kube-hunter](https://img.shields.io/badge/kube--hunter-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**SIEM & Detection**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A1F1?style=flat-square&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Featured Projects
 
 ### ☁️ Cloud Security
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [aws-to-azure-waf-migration](https://github.com/sivaprasad789-ai/aws-to-azure-waf-migration) | Production WAF migration: AWS WebACL → Azure App Gateway WAF v2. Includes rule mapping, CLI + GUI runbooks, and automated validation | Azure WAF · Bicep · Python | 🟢 Active |
-| [azure-landing-zone-security](https://github.com/sivaprasad789-ai/azure-landing-zone-security) | Security-hardened Azure Landing Zone with Defender for Cloud, Sentinel, Conditional Access, and PIM as IaC | Bicep · Terraform · Azure Policy | 🟡 In Progress |
-| [cloud-security-posture-dashboard](https://github.com/sivaprasad789-ai/cloud-security-posture-dashboard) | Multi-cloud CSPM dashboard aggregating AWS Security Hub, Defender for Cloud, and GCP SCC findings | Python · Grafana · Terraform | 🟡 In Progress |
+| [cloud-security-assessment-framework](https://github.com/sivaprasad789-ai/cloud-security-assessment-framework) | Enterprise-grade cloud security assessment framework covering 200+ controls across AWS, Azure, and GCP | Python · Terraform · AWS · Azure | 🟢 Active |
+| [aws-security-automation-toolkit](https://github.com/sivaprasad789-ai/aws-security-automation-toolkit) | Automates security baseline across 30+ AWS accounts — GuardDuty, Security Hub, Config rules, SCPs | Python · AWS CDK · Lambda | 🟢 Active |
+| [aws-to-azure-waf-migration](https://github.com/sivaprasad789-ai/aws-to-azure-waf-migration) | Production WAF migration playbook: AWS WAF WebACL → Azure App Gateway WAF v2, with rule mapping and validation | Azure WAF · Bicep · Python | 🟢 Active |
+| [cnapp-evaluation-lab](https://github.com/sivaprasad789-ai/cnapp-evaluation-lab) | Structured lab for evaluating CNAPP platforms (Prisma Cloud, Wiz, Defender) against real attack scenarios | Terraform · Docker · K8s | 🟡 In Progress |
+| [cloud-detection-engineering](https://github.com/sivaprasad789-ai/cloud-detection-engineering) | Detection-as-code library: KQL, SPL, and Sigma rules for cloud-native attack TTPs mapped to MITRE ATT&CK | Sentinel · Splunk · Sigma | 🟡 In Progress |
+
+### ☸️ Kubernetes Security
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [kubernetes-security-benchmark](https://github.com/sivaprasad789-ai/kubernetes-security-benchmark) | Automated CIS Benchmark assessment for AKS/EKS using kube-bench with custom remediation playbooks | kube-bench · Helm · Python | 🟢 Active |
+| [k8s-security-hardening-kit](https://github.com/sivaprasad789-ai/k8s-security-hardening-kit) | Complete Kubernetes hardening: OPA/Kyverno policies, Falco rules, network policies, Istio mTLS, secrets management | Kubernetes · Falco · OPA | 🟡 In Progress |
+| [container-image-security](https://github.com/sivaprasad789-ai/container-image-security) | Container image security pipeline: multi-stage scanning, Cosign signing, SBOM generation, distroless migration | Trivy · Cosign · Syft | 🟡 In Progress |
+
+### 🤖 AI / LLM Security
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [llm-security-assessment-toolkit](https://github.com/sivaprasad789-ai/llm-security-assessment-toolkit) | Comprehensive LLM security testing: prompt injection, jailbreaks, data leakage, model extraction attacks | Python · OWASP LLM Top 10 | 🟡 In Progress |
+| [ai-threat-modeling-framework](https://github.com/sivaprasad789-ai/ai-threat-modeling-framework) | STRIDE-based threat models for LLM, RAG, and agentic AI systems mapped to MITRE ATLAS and NIST AI RMF | STRIDE · MITRE ATLAS | 🟡 In Progress |
+| [llm-red-teaming-lab](https://github.com/sivaprasad789-ai/llm-red-teaming-lab) | Red teaming lab for LLMs: adversarial prompt datasets, attack automation, defense evaluation | Python · Jupyter | 🔵 Planned |
 
 ### 🔄 DevSecOps
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [devsecops-pipeline-blueprint](https://github.com/sivaprasad789-ai/devsecops-pipeline-blueprint) | End-to-end secure CI/CD pipeline with SAST, SCA, secrets scanning, container scanning, and IaC security gates | GitHub Actions · Trivy · Checkov · Gitleaks | 🟢 Active |
-| [kubernetes-security-hardening](https://github.com/sivaprasad789-ai/kubernetes-security-hardening) | AKS/EKS hardening: CIS benchmark automation, Falco rules, OPA/Kyverno policies, network policies, Istio mTLS | Kubernetes · Helm · OPA · Falco | 🟡 In Progress |
+| [devsecops-pipeline-blueprint](https://github.com/sivaprasad789-ai/devsecops-pipeline-blueprint) | Enterprise DevSecOps pipeline: SAST, SCA, secrets, container scanning, IaC security, DAST, SBOM | GitHub Actions · Trivy · SonarQube | 🟢 Active |
+| [security-as-code-library](https://github.com/sivaprasad789-ai/security-as-code-library) | Reusable security controls as code: OPA policies, Kyverno rules, Checkov custom checks, tfsec rules | OPA · Kyverno · Checkov | 🟡 In Progress |
 
-### 🤖 AI / ML Security
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [llm-security-threat-model](https://github.com/sivaprasad789-ai/llm-security-threat-model) | STRIDE-based threat model for LLM and RAG applications covering prompt injection, data poisoning, agentic AI risks | OWASP LLM Top 10 · MITRE ATLAS | 🟡 In Progress |
-| [ai-security-scanner](https://github.com/sivaprasad789-ai/ai-security-scanner) | Automated security scanner for AI/ML pipelines — dataset integrity, model provenance, API exposure checks | Python · GitHub Actions | 🔵 Planned |
-
-### 🔧 Security Tools & Research
+### 🎯 Security Architecture
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [waf-rule-testing-framework](https://github.com/sivaprasad789-ai/waf-rule-testing-framework) | Automated WAF rule validation against OWASP payloads and custom attack scenarios | Python · Pytest · OWASP | 🟢 Active |
-| [threat-modeling-templates](https://github.com/sivaprasad789-ai/threat-modeling-templates) | Ready-to-use STRIDE threat model templates for cloud-native, FinTech, and microservices architectures | Markdown · OWASP Threat Dragon | 🟢 Active |
+| [threat-modeling-framework](https://github.com/sivaprasad789-ai/threat-modeling-framework) | Enterprise threat modeling templates: STRIDE, PASTA, attack trees for cloud-native and microservices | OWASP Threat Dragon · Markdown | 🟢 Active |
+| [security-architecture-patterns](https://github.com/sivaprasad789-ai/security-architecture-patterns) | Reference architectures: Zero Trust, CNAPP, secure landing zones, microservices security patterns | Diagrams · Terraform · Bicep | 🟡 In Progress |
+| [zero-trust-implementation-guide](https://github.com/sivaprasad789-ai/zero-trust-implementation-guide) | Practical Zero Trust implementation: identity, device, network, application, and data pillars | Azure · AWS · Entra ID | 🔵 Planned |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sivaprasad789-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasad789-ai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivaprasad789-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasad789-ai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivaprasad789-ai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivaprasad789-ai&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivaprasad789-ai&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivaprasad789-ai&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## ✍️ Writing & Knowledge Sharing
+## 📚 Research & Publications
 
-- 📝 [AWS WAF to Azure WAF Migration — Complete Playbook](#)
-- 📝 [Securing Agentic AI Systems — Threat Model and Controls](#)
-- 📝 [Kubernetes Security Hardening — CIS Benchmark in Practice](#)
-- 📝 [Zero Trust Architecture for FinTech Platforms](#)
-- 📝 [OWASP LLM Top 10 — A Practitioner's Guide](#)
+| Type | Title | Venue | Year |
+|------|-------|-------|------|
+| 📄 Research Paper | **[Published — Title to be updated]** | Scopus-Indexed Journal | 2023 |
+
+> Scopus-indexed research publication in Cyber Security & Digital Forensics domain.
+> Full citation available on [LinkedIn](https://www.linkedin.com/in/siva-prasad-kusethi/).
+
+---
+
+## ✍️ Security Blog & Writing
+
+> Publishing technical deep-dives on cloud security, DevSecOps, and AI security.
+
+- 📝 [AWS WAF to Azure WAF Migration — Production Playbook](#) *(Coming soon)*
+- 📝 [Kubernetes Security — CKS Exam to Production Hardening](#) *(Coming soon)*
+- 📝 [LLM Security — Building a Threat Model for RAG Systems](#) *(Coming soon)*
+- 📝 [Zero Trust Architecture — From Design to Implementation](#) *(Coming soon)*
+- 📝 [Securing Agentic AI — OWASP LLM Top 10 in Practice](#) *(Coming soon)*
+- 📝 [Cloud Detection Engineering — Writing KQL That Matters](#) *(Coming soon)*
+
+---
+
+## 🎤 Speaking & Community
+
+> Building my public presence in the security community.
+
+| Event Type | Topic | Status |
+|-----------|-------|--------|
+| Conference Talk | AI Security & LLM Threat Modeling | 🔵 Submitting CFPs |
+| Webinar | Kubernetes Security from CKS to Production | 🔵 Planned |
+| Workshop | DevSecOps Pipeline — Hands-on Lab | 🔵 Planned |
+| Podcast | Cloud Security Architecture at Scale | 🔵 Planned |
+| Blog Series | Complete Guide to CNAPP Implementation | 🟡 In Progress |
+
+---
+
+## 🚀 Current Learning Roadmap
+
+```
+2025 Focus Areas
+─────────────────────────────────────────────────────
+
+Agentic AI Security    ████████████░░░  80%  Active
+AI Red Teaming         ████████░░░░░░░  55%  Active
+MCP Security           ██████░░░░░░░░░  40%  Learning
+MLOps Security         ██████░░░░░░░░░  40%  Learning
+Model Security         █████░░░░░░░░░░  35%  Research
+Cloud Native Security  ████████████░░░  85%  Strong
+CCSP Certification     ████████░░░░░░░  55%  Pursuing
+CISSP Certification    ██████░░░░░░░░░  40%  Planned
+```
+
+---
+
+## 🏆 Notable Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|------------|---------|
+| 🏛️ **Chief Minister Recognition** | Honored by Andhra Pradesh Chief Minister for Security Audit Excellence |
+| 🎓 **Gold Medalist** | M.Sc. Cyber Security & Digital Forensics |
+| 📄 **Scopus Researcher** | Published peer-reviewed security research (Scopus-indexed) |
+| ☁️ **Multi-Account Security** | Secured and governed 30+ AWS production accounts |
+| 🔍 **500+ Assessments** | Performed over 500 security assessments across enterprise environments |
+| ☸️ **CKA + CKS** | Dual Kubernetes certification — administration and security specialty |
+
+</div>
 
 ---
 
 ## 💡 Security Philosophy
 
-> *"Security is not a product you buy — it is an architecture you design, a culture you build, and a discipline you sustain."*
+> *"Security is not a feature you bolt on — it is an architecture you design in, a culture you build through, and a discipline you measure continuously."*
 
 ```
-Shift Left  ──►  Automate  ──►  Monitor  ──►  Iterate
-     │                │               │              │
-  Dev stage      CI/CD gates      Runtime       Continuously
-  threat model   security checks  detection     improve posture
+           Threat Model Early
+                  │
+     ┌────────────▼────────────┐
+     │    Shift Left           │  ←  SAST · SCA · IaC scan · Secrets
+     │    Security Gates       │  ←  Pre-commit · PR checks · Pipeline
+     │    Runtime Protection   │  ←  CWPP · Falco · WAF · SIEM
+     │    Detection & Response │  ←  KQL · SPL · Sigma · Playbooks
+     └────────────┬────────────┘
+                  │
+         Measure & Iterate
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/sivaprasadkusethi](https://linkedin.com/in/sivaprasadkusethi) |
-| ✍️ Medium | [medium.com/@sivaprasadkusethi](https://medium.com/@sivaprasadkusethi) |
-| 📧 Email | sivaprasad789@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/siva-prasad-kusethi](https://www.linkedin.com/in/siva-prasad-kusethi/) |
+| 📧 Email | [sivaprasad.kram@gmail.com](mailto:sivaprasad.kram@gmail.com) |
 | 🐙 GitHub | [github.com/sivaprasad789-ai](https://github.com/sivaprasad789-ai) |
+| ✍️ Medium | [medium.com/@sivaprasadkusethi](https://medium.com/@sivaprasadkusethi) |
 
 </div>
 
@@ -283,8 +475,10 @@ Shift Left  ──►  Automate  ──►  Monitor  ──►  Iterate
 
 <div align="center">
 
-*Open to · Cloud Security Architect · DevSecOps Architect · Application Security Architect · AI Security Engineer*
+*Principal Security Engineer · Cloud Security Architect · DevSecOps Architect · AI Security Engineer*
 
-**Abu Dhabi, UAE — Open to regional and remote opportunities**
+**Abu Dhabi, UAE — Open to senior global and remote opportunities**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
