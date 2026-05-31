@@ -107,11 +107,6 @@ open_to:
     - AI Security Engineer
     - DevSecOps Architect
     - Enterprise Security Architect
-  locations:
-    - Germany | Ireland | Netherlands
-    - United Kingdom | Australia | Canada
-  visa   : EU Blue Card — Independent Eligibility (5–8 Weeks)
-  notice : 60 Days
 ```
 
 </td>
