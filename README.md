@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Siva+Prasad+Kusethi;Principal+Security+Architect+%7C+Cloud+Security+Lead;AI+Security+%7C+DevSecOps+%7C+Kubernetes+Security;8%2B+Years+Securing+Enterprise+Cloud+at+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Siva+Prasad+Kusethi;Principal+Security+Architect+%7C+Cloud+Security;AI+Security+%7C+DevSecOps+%7C+Kubernetes+Security;8%2B+Years+Securing+Enterprise+Cloud+at+Scale)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,13 +28,13 @@
 ```yaml
 identity:
   name     : Siva Prasad Kusethi
-  title    : Principal Security Architect
+  title    : Principal Security Architect | DevSecOps | Incident Response | AI Security | Cloud Security | CNAPP | SIEM | IAM | Kubernetes    Security
   location : Abu Dhabi, UAE
-  email    : sivaprasad.kram@gmail.com
+  email    : sivaprasa789@gmail.com
 
 experience:
   years    : 8+ years in Cyber Security
-  accounts : 30+ AWS accounts secured
+  accounts : 30+ AWS accounts, Azure and GRP accounts secured
   audits   : 500+ security assessments
   research : Scopus-indexed publication
 
@@ -84,7 +84,7 @@ open_to:
 
 I am a **Principal Security Architect** with 8+ years of experience designing and implementing enterprise security programs across cloud-native, FinTech, and government environments.
 
-My work spans the full security spectrum — from architecting **Zero Trust frameworks** and **securing 30+ AWS production accounts**, to building **DevSecOps pipelines from scratch**, leading **AKS and EKS Kubernetes security reviews**, designing **Azure-native security architectures** using Microsoft Sentinel, Defender for Cloud, and Entra ID, and creating **AI/LLM threat models** for emerging agentic systems.
+My work spans the full security spectrum — from architecting **Zero Trust frameworks** and **securing 30+ AWS production accounts and Azure, GRP accounts secured**, to building **DevSecOps pipelines from scratch**, leading **AKS and EKS Kubernetes security reviews**, designing **Azure-native security architectures** using Microsoft Sentinel, Defender for Cloud, and Entra ID, and creating **AI/LLM threat models** for emerging agentic systems.
 
 I hold both **CKA + CKS** — one of very few security professionals certified in both Kubernetes administration and security — with hands-on production hardening experience across **Azure Kubernetes Service (AKS)** and **Amazon Elastic Kubernetes Service (EKS)**. On the Azure side, I work deeply with **AKS security (Defender for Containers, Workload Identity, Azure Policy for AKS)** and across the full **Microsoft security stack (Sentinel, Entra ID, Defender for Cloud, Azure WAF, Key Vault, Conditional Access, PIM)**.
 
@@ -105,6 +105,7 @@ I hold both **CKA + CKS** — one of very few security professionals certified i
 | ☁️ | **AWS Certified Security – Specialty** | Cloud Security | Amazon Web Services |
 | 🔷 | **Microsoft Certified: Azure Security Engineer (AZ-500)** | Cloud Security | Microsoft |
 | 🔷 | **Microsoft Certified: Azure Security Operations Analyst (SC-200)** | SecOps | Microsoft |
+| 🔷 | **Microsoft Certified: Cybersecurity Architect Expert (SC-100)** |  Cloud Security | Microsoft |
 | ☸️ | **Certified Kubernetes Administrator (CKA)** | Infrastructure | CNCF |
 | ☸️ | **Certified Kubernetes Security Specialist (CKS)** | Container Security | CNCF |
 | 📋 | **Certified Information Systems Auditor (CISA)** | Audit & GRC | ISACA |
@@ -192,10 +193,15 @@ I hold both **CKA + CKS** — one of very few security professionals certified i
 
 > **Certified Kubernetes Administrator (CKA) + Certified Kubernetes Security Specialist (CKS)** — dual certification covering both cluster operations and security hardening on AKS and EKS.
 
-| Platform | Security Depth |
-|----------|---------------|
-| **AKS** ⭐ | Microsoft Defender for Containers, Azure Policy for AKS, Workload Identity, Key Vault CSI Driver, Private Cluster, Azure CNI, network policies, RBAC with Entra ID integration |
-| **EKS** ⭐ | GuardDuty EKS Protection, IRSA (IAM Roles for Service Accounts), OIDC provider, VPC CNI security, EKS Pod Identity, Control Plane logging, Kyverno admission control |
+| Platform | Services & Depth |
+|----------|-----------------|
+| **AWS** | Security Hub, GuardDuty, Inspector, Config, **WAF v2**, Shield, CloudTrail, IAM, KMS, Macie, VPC Security, **EKS Security** |
+| **Azure** ⭐ | **Defender for Cloud**, **Sentinel**, **Entra ID / Azure AD**, **App Gateway WAF v2**, Key Vault, Conditional Access, PIM, DDoS Protection, **AKS Security**, Azure Monitor, GCP Logging integration |
+| **GCP** | Security Command Center, Cloud Armor, IAM, VPC Service Controls, Binary Authorization |
+| **AKS** ⭐ | Azure Kubernetes Service security hardening — RBAC, Azure Policy for AKS, Defender for Containers, network policies, workload identity, Key Vault CSI Driver |
+| **EKS** ⭐ | Amazon EKS security — IAM Roles for Service Accounts (IRSA), OIDC, GuardDuty EKS Protection, Kyverno/OPA policies, VPC CNI security |
+| **CNAPP / CSPM** | Upwind, Prisma Cloud, Aqua Security, Microsoft Defender for Cloud |
+| **Architecture** | Zero Trust, CNAPP strategy, CSPM governance, CWPP implementation, multi-account security |
 
 - **Cluster hardening** — CIS Benchmark, kube-bench, RBAC least privilege, admission controllers
 - **Pod security** — PodSecurity Admission, SecurityContext, OPA/Kyverno policies
